@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+data/inputs/*
+data/depth_maps/*
+data/pointclouds/*
+data/outputs/*
+!data/**/.gitkeep
+.ipynb_checkpoints/
